@@ -110,7 +110,7 @@ WebDriverWait(driver, 5)\
     #.send_keys('anfp_ilegal')
     #.send_keys('valecaballerof')
     #.send_keys('joseantoniokast')
-sleep(0.5)
+sleep(1)
 
 #HACE CLICK EN BUSCAR
 WebDriverWait(driver, 5)\
