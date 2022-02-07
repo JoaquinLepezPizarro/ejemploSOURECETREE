@@ -106,7 +106,7 @@ sleep(9)
 #BUSCA UN USUARIO
 WebDriverWait(driver, 5)\
     .until(EC.element_to_be_clickable((By.XPATH,'//*[@id="app"]/div[1]/div/div[1]/div/form/input')))\
-    .send_keys('anfp_ilegal')#------------------------------------------------------------------------------------------------->¡ACA INGRESAR ID PERFIL PARA HACER SCRAPING!
+    .send_keys('joseantoniokast')#------------------------------------------------------------------------------------------------->¡ACA INGRESAR ID PERFIL PARA HACER SCRAPING!
     #.send_keys('anfp_ilegal')
     #.send_keys('valecaballerof')
     #.send_keys('joseantoniokast')
